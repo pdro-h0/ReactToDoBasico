@@ -7,7 +7,7 @@ export const Container = styled.div`
     margin-block: 2rem;
     border: 1px solid #555;
     border-radius: 1.5rem;
-
+    
     .image{
         margin-right: .5rem;
     }
